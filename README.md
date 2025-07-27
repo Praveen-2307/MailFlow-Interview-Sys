@@ -2,14 +2,32 @@
 
 <div align="center">
 
-![MailFlow Logo](https://via.placeholder.com/400x200/4F46E5/FFFFFF?text=MailFlow)
+<div align="center">
+
+```
+    ███╗   ███╗ █████╗ ██╗██╗     ███████╗██╗      ██████╗ ██╗    ██╗
+    ████╗ ████║██╔══██╗██║██║     ██╔════╝██║     ██╔═══██╗██║    ██║
+    ██╔████╔██║███████║██║██║     █████╗  ██║     ██║   ██║██║ █╗ ██║
+    ██║╚██╔╝██║██╔══██║██║██║     ██╔══╝  ██║     ██║   ██║██║███╗██║
+    ██║ ╚═╝ ██║██║  ██║██║███████╗██║     ███████╗╚██████╔╝╚███╔███╔╝
+    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
+```
+
+<h3>🚀 AI-Powered Email Marketing Platform</h3>
+<p><em>Build the future of email marketing with GenAI</em></p>
+
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/Juni-crypto/MailFlow-Interview-Sys)
+[![Interview Project](https://img.shields.io/badge/Interview-Project-4F46E5.svg)](https://github.com/Juni-crypto/MailFlow-Interview-Sys)
+[![Full Stack](https://img.shields.io/badge/Full%20Stack-GenAI-06B6D4.svg)](https://github.com/Juni-crypto/MailFlow-Interview-Sys)
+
+</div>
 
 *A modern, AI-powered email marketing platform built for the GenAI era*
 
-[![Stars](https://img.shields.io/github/stars/your-org/mailflow-interview?style=social)](https://github.com/your-org/mailflow-interview/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-org/mailflow-interview?style=social)](https://github.com/your-org/mailflow-interview/network/members)
-[![Issues](https://img.shields.io/github/issues/your-org/mailflow-interview)](https://github.com/your-org/mailflow-interview/issues)
-[![License](https://img.shields.io/github/license/your-org/mailflow-interview)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Juni-crypto/MailFlow-Interview-Sys?style=social)](https://github.com/Juni-crypto/MailFlow-Interview-Sys/stargazers)
+[![Forks](https://img.shields.io/github/forks/Juni-crypto/MailFlow-Interview-Sys?style=social)](https://github.com/Juni-crypto/MailFlow-Interview-Sys/network/members)
+[![Issues](https://img.shields.io/github/issues/Juni-crypto/MailFlow-Interview-Sys)](https://github.com/Juni-crypto/MailFlow-Interview-Sys/issues)
+[![License](https://img.shields.io/github/license/Juni-crypto/MailFlow-Interview-Sys)](LICENSE)
 
 </div>
 
@@ -35,8 +53,8 @@ Before you begin, ensure you have:
 2. **🍴 Fork this repository** to your GitHub account
 3. **📥 Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mailflow-interview.git
-   cd mailflow-interview
+   git clone https://github.com/YOUR_USERNAME/MailFlow-Interview-Sys.git
+   cd MailFlow-Interview-Sys
    ```
 4. **🚀 Quick Setup**:
    ```bash
