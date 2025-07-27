@@ -33,7 +33,7 @@
 
 ## 🎯 Welcome to Your Full-Stack GenAI Engineer Interview!
 
-Congratulations on making it to the technical interview stage! Instead of traditional whiteboard coding, we believe in evaluating your skills through real-world project development. You'll be building **MailFlow** - a modern email marketing platform with AI capabilities.
+Congratulations on making it to the technical interview stage at **Glanzs**! Instead of traditional whiteboard coding, we believe in evaluating your skills through real-world project development. You'll be building **MailFlow** - a modern email marketing platform with AI capabilities.
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -74,6 +74,23 @@ Before you begin, ensure you have:
 
 MailFlow is a comprehensive email marketing platform similar to Mailchimp, but enhanced with modern GenAI capabilities. You'll build this in three progressive phases:
 
+## 📅 Interview Timeline & Expectations
+
+**Start Date**: July 27, 2025
+**Total Duration**: 7 days
+**Final Submission**: August 3, 2025 (11:59 PM IST)
+
+### 📋 Phase Schedule:
+- **Phase 1**: July 27-29, 2025 (Days 1-3) - Core Platform
+- **Phase 2**: July 30-31, 2025 (Days 4-5) - AI Integration
+- **Phase 3**: August 1-2, 2025 (Days 6-7) - Deployment
+- **Final Review**: August 3, 2025 - Submit final PR
+
+### ⏰ Daily Expectations:
+- **Daily Progress Updates**: Submit commits by 6 PM IST each day
+- **Phase Completion**: Submit PR within 24 hours of phase deadline
+- **Communication**: Respond to feedback within 4 hours during business hours
+
 <div align="center">
 
 ```mermaid
@@ -96,9 +113,15 @@ graph LR
 
 </div>
 
-## 🎯 Phase 1: Core Platform (Days 1-3)
+## 🎯 Phase 1: Core Platform (July 27-29, 2025)
 
-![Development GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+```
+    💻 PHASE 1: BUILD THE FOUNDATION
+    
+    Day 1 (Jul 27): 🔐 Auth System
+    Day 2 (Jul 28): 📊 Dashboard + 📧 Campaigns
+    Day 3 (Jul 29): 👥 Contacts + 📤 Send Emails
+```
 
 ### 🎨 Essential Frontend Features
 - [ ] User authentication (login/register)
@@ -115,11 +138,16 @@ graph LR
 - [ ] Email sending service
 - [ ] Basic analytics tracking
 
-**Timeline: 3 days**
+**Deadline: July 29, 2025 (11:59 PM IST)**
 
-## 🤖 Phase 2: AI Integration (Days 4-5)
+## 🤖 Phase 2: AI Integration (July 30-31, 2025)
 
-![AI GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+```
+    🤖 PHASE 2: ADD AI SUPERPOWERS
+    
+    Day 4 (Jul 30): 🧠 AI Content Generation
+    Day 5 (Jul 31): ⚡ Smart Features & Optimization
+```
 
 ### 🧠 AI Features
 - [ ] AI email content generation
@@ -128,11 +156,16 @@ graph LR
 - [ ] Send time optimization
 - [ ] A/B testing with AI
 
-**Timeline: 2 days**
+**Deadline: July 31, 2025 (11:59 PM IST)**
 
-## 🚀 Phase 3: Deployment (Days 6-7)
+## 🚀 Phase 3: Deployment (August 1-2, 2025)
 
-![Deployment GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+```
+    🚀 PHASE 3: SHIP TO PRODUCTION
+    
+    Day 6 (Aug 1): 🐳 Docker + Cloud Setup
+    Day 7 (Aug 2): 🌐 Live Deployment + Final Polish
+```
 
 ### ☁️ Deployment Goals
 - [ ] Docker containerization
@@ -141,7 +174,7 @@ graph LR
 - [ ] Environment configuration
 - [ ] Live application
 
-**Timeline: 2 days**
+**Final Deadline: August 2, 2025 (11:59 PM IST)**
 
 ## 📝 Submission Guidelines
 
@@ -198,7 +231,8 @@ graph LR
 
 ### 📞 Getting Support
 - **Slack Channel**: #mailflow-interview
-- **Email**: interview-support@company.com
+- **Email**: support@glanzs.com
+- **Direct Contact**: juni@glanzs.com
 - **Office Hours**: Mon-Fri, 2-4 PM IST
 - **Response Time**: Within 4 hours during business days
 
